@@ -1,0 +1,1382 @@
+[
+  {
+    "Países": "USA",
+    "total casos": "98,166,904",
+    "total muertes": "1,084,282",
+    "total recuperados": "94,962,112"
+  },
+  {
+    "Países": "India",
+    "total casos": "44,587,307",
+    "total muertes": "528,629",
+    "total recuperados": "44,019,095"
+  },
+  {
+    "Países": "France",
+    "total casos": "35,342,950",
+    "total muertes": "155,078",
+    "total recuperados": "34,527,115"
+  },
+  {
+    "Países": "Brazil",
+    "total casos": "34,706,757",
+    "total muertes": "686,027",
+    "total recuperados": "33,838,636"
+  },
+  {
+    "Países": "Germany",
+    "total casos": "33,312,373",
+    "total muertes": "149,948",
+    "total recuperados": "32,315,200"
+  },
+  {
+    "Países": "S. Korea",
+    "total casos": "24,769,101",
+    "total muertes": "28,406",
+    "total recuperados": "24,013,461"
+  },
+  {
+    "Países": "UK",
+    "total casos": "23,621,952",
+    "total muertes": "189,919",
+    "total recuperados": "23,347,871"
+  },
+  {
+    "Países": "Italy",
+    "total casos": "22,432,803",
+    "total muertes": "177,054",
+    "total recuperados": "21,779,604"
+  },
+  {
+    "Países": "Japan",
+    "total casos": "21,229,216",
+    "total muertes": "44,678",
+    "total recuperados": "20,380,089"
+  },
+  {
+    "Países": "Russia",
+    "total casos": "20,948,470",
+    "total muertes": "387,163",
+    "total recuperados": "19,979,763"
+  },
+  {
+    "Países": "Turkey",
+    "total casos": "16,873,793",
+    "total muertes": "101,139",
+    "total recuperados": "16,754,301"
+  },
+  {
+    "Países": "Spain",
+    "total casos": "13,412,263",
+    "total muertes": "114,084",
+    "total recuperados": "13,218,892"
+  },
+  {
+    "Países": "Vietnam",
+    "total casos": "11,477,886",
+    "total muertes": "43,148",
+    "total recuperados": "10,590,917"
+  },
+  {
+    "Países": "Australia",
+    "total casos": "10,209,239",
+    "total muertes": "14,984",
+    "total recuperados": "10,133,494"
+  },
+  {
+    "Países": "Argentina",
+    "total casos": "9,708,420",
+    "total muertes": "129,897",
+    "total recuperados": "9,563,348"
+  },
+  {
+    "Países": "Netherlands",
+    "total casos": "8,422,336",
+    "total muertes": "22,643",
+    "total recuperados": "8,362,464"
+  },
+  {
+    "Países": "Iran",
+    "total casos": "7,548,320",
+    "total muertes": "144,421",
+    "total recuperados": "7,325,370"
+  },
+  {
+    "Países": "Mexico",
+    "total casos": "7,084,488",
+    "total muertes": "330,065",
+    "total recuperados": "6,353,953"
+  },
+  {
+    "Países": "Indonesia",
+    "total casos": "6,429,767",
+    "total muertes": "158,093",
+    "total recuperados": "6,253,317"
+  },
+  {
+    "Países": "Taiwan",
+    "total casos": "6,417,941",
+    "total muertes": "11,003",
+    "total recuperados": "5,603,195"
+  },
+  {
+    "Países": "Colombia",
+    "total casos": "6,307,372",
+    "total muertes": "141,794",
+    "total recuperados": "6,134,690"
+  },
+  {
+    "Países": "Poland",
+    "total casos": "6,289,672",
+    "total muertes": "117,539",
+    "total recuperados": "5,335,940"
+  },
+  {
+    "Países": "Portugal",
+    "total casos": "5,490,639",
+    "total muertes": "25,024",
+    "total recuperados": "5,394,788"
+  },
+  {
+    "Países": "Ukraine",
+    "total casos": "5,177,217",
+    "total muertes": "109,206",
+    "total recuperados": "4,973,554"
+  },
+  {
+    "Países": "Austria",
+    "total casos": "5,118,512",
+    "total muertes": "20,738",
+    "total recuperados": "5,006,572"
+  },
+  {
+    "Países": "Greece",
+    "total casos": "4,920,192",
+    "total muertes": "33,111",
+    "total recuperados": "4,836,903"
+  },
+  {
+    "Países": "Malaysia",
+    "total casos": "4,838,872",
+    "total muertes": "36,369",
+    "total recuperados": "4,777,329"
+  },
+  {
+    "Países": "DPRK",
+    "total casos": "4,772,813",
+    "total muertes": 74,
+    "total recuperados": "4,772,739"
+  },
+  {
+    "Países": "Thailand",
+    "total casos": "4,681,309",
+    "total muertes": "32,767",
+    "total recuperados": "4,642,083"
+  },
+  {
+    "Países": "Israel",
+    "total casos": "4,661,096",
+    "total muertes": "11,698",
+    "total recuperados": "4,641,394"
+  },
+  {
+    "Países": "Chile",
+    "total casos": "4,620,377",
+    "total muertes": "61,141",
+    "total recuperados": "4,540,886"
+  },
+  {
+    "Países": "Belgium",
+    "total casos": "4,533,249",
+    "total muertes": "32,659",
+    "total recuperados": "4,451,569"
+  },
+  {
+    "Países": "Canada",
+    "total casos": "4,233,468",
+    "total muertes": "44,992",
+    "total recuperados": "4,131,367"
+  },
+  {
+    "Países": "Peru",
+    "total casos": "4,143,085",
+    "total muertes": "216,539",
+    "total recuperados": "3,914,598"
+  },
+  {
+    "Países": "Czechia",
+    "total casos": "4,100,480",
+    "total muertes": "41,059",
+    "total recuperados": "4,035,333"
+  },
+  {
+    "Países": "Switzerland",
+    "total casos": "4,084,307",
+    "total muertes": "14,183",
+    "total recuperados": "4,012,833"
+  },
+  {
+    "Países": "South Africa",
+    "total casos": "4,018,769",
+    "total muertes": "102,185",
+    "total recuperados": "3,909,265"
+  },
+  {
+    "Países": "Philippines",
+    "total casos": "3,945,566",
+    "total muertes": "62,916",
+    "total recuperados": "3,854,478"
+  },
+  {
+    "Países": "Romania",
+    "total casos": "3,267,370",
+    "total muertes": "67,016",
+    "total recuperados": "3,180,124"
+  },
+  {
+    "Países": "Denmark",
+    "total casos": "3,110,831",
+    "total muertes": "7,065",
+    "total recuperados": "3,093,396"
+  },
+  {
+    "Países": "Sweden",
+    "total casos": "2,588,441",
+    "total muertes": "20,194",
+    "total recuperados": "2,548,125"
+  },
+  {
+    "Países": "Iraq",
+    "total casos": "2,459,982",
+    "total muertes": "25,355",
+    "total recuperados": "2,433,704"
+  },
+  {
+    "Países": "Serbia",
+    "total casos": "2,359,530",
+    "total muertes": "17,000",
+    "total recuperados": "2,298,536"
+  },
+  {
+    "Países": "Hungary",
+    "total casos": "2,094,142",
+    "total muertes": "47,503",
+    "total recuperados": "2,014,175"
+  },
+  {
+    "Países": "Bangladesh",
+    "total casos": "2,024,489",
+    "total muertes": "29,362",
+    "total recuperados": "1,964,501"
+  },
+  {
+    "Países": "Singapore",
+    "total casos": "1,904,192",
+    "total muertes": "1,617",
+    "total recuperados": "1,821,160"
+  },
+  {
+    "Países": "Slovakia",
+    "total casos": "1,843,220",
+    "total muertes": "20,455",
+    "total recuperados": "1,817,938"
+  },
+  {
+    "Países": "Georgia",
+    "total casos": "1,780,691",
+    "total muertes": "16,900",
+    "total recuperados": "1,637,293"
+  },
+  {
+    "Países": "New Zealand",
+    "total casos": "1,779,476",
+    "total muertes": "2,959",
+    "total recuperados": "1,767,660"
+  },
+  {
+    "Países": "Hong Kong",
+    "total casos": "1,761,381",
+    "total muertes": "10,153",
+    "total recuperados": "1,469,240"
+  },
+  {
+    "Países": "Jordan",
+    "total casos": "1,746,997",
+    "total muertes": "14,122",
+    "total recuperados": "1,731,007"
+  },
+  {
+    "Países": "Ireland",
+    "total casos": "1,663,653",
+    "total muertes": "7,905",
+    "total recuperados": "1,648,405"
+  },
+  {
+    "Países": "Pakistan",
+    "total casos": "1,572,598",
+    "total muertes": "30,616",
+    "total recuperados": "1,536,924"
+  },
+  {
+    "Países": "Norway",
+    "total casos": "1,462,318",
+    "total muertes": "4,098",
+    "total recuperados": "1,457,108"
+  },
+  {
+    "Países": "Kazakhstan",
+    "total casos": "1,393,468",
+    "total muertes": "13,690",
+    "total recuperados": "1,378,440"
+  },
+  {
+    "Países": "Finland",
+    "total casos": "1,292,940",
+    "total muertes": "5,981",
+    "total recuperados": "1,263,711"
+  },
+  {
+    "Países": "Morocco",
+    "total casos": "1,264,935",
+    "total muertes": "16,278",
+    "total recuperados": "1,248,543"
+  },
+  {
+    "Países": "Bulgaria",
+    "total casos": "1,258,670",
+    "total muertes": "37,714",
+    "total recuperados": "1,211,397"
+  },
+  {
+    "Países": "Lithuania",
+    "total casos": "1,249,134",
+    "total muertes": "9,320",
+    "total recuperados": "1,216,151"
+  },
+  {
+    "Países": "Croatia",
+    "total casos": "1,231,575",
+    "total muertes": "16,902",
+    "total recuperados": "1,209,524"
+  },
+  {
+    "Países": "Lebanon",
+    "total casos": "1,215,511",
+    "total muertes": "10,674",
+    "total recuperados": "1,087,587"
+  },
+  {
+    "Países": "Slovenia",
+    "total casos": "1,181,073",
+    "total muertes": "6,820",
+    "total recuperados": "1,145,051"
+  },
+  {
+    "Países": "Tunisia",
+    "total casos": "1,145,686",
+    "total muertes": "29,249",
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Guatemala",
+    "total casos": "1,123,465",
+    "total muertes": "19,789",
+    "total recuperados": "1,102,988"
+  },
+  {
+    "Países": "Cuba",
+    "total casos": "1,111,179",
+    "total muertes": "8,530",
+    "total recuperados": "1,102,548"
+  },
+  {
+    "Países": "Bolivia",
+    "total casos": "1,108,195",
+    "total muertes": "22,234",
+    "total recuperados": "1,051,789"
+  },
+  {
+    "Países": "Costa Rica",
+    "total casos": "1,072,807",
+    "total muertes": "8,913",
+    "total recuperados": "860,711"
+  },
+  {
+    "Países": "UAE",
+    "total casos": "1,027,031",
+    "total muertes": "2,345",
+    "total recuperados": "1,006,369"
+  },
+  {
+    "Países": "Ecuador",
+    "total casos": "1,003,778",
+    "total muertes": "35,894",
+    "total recuperados": "964,320"
+  },
+  {
+    "Países": "Nepal",
+    "total casos": "999,712",
+    "total muertes": "12,018",
+    "total recuperados": "986,617"
+  },
+  {
+    "Países": "Belarus",
+    "total casos": "994,037",
+    "total muertes": "7,118",
+    "total recuperados": "985,592"
+  },
+  {
+    "Países": "Panama",
+    "total casos": "986,866",
+    "total muertes": "8,497",
+    "total recuperados": "976,873"
+  },
+  {
+    "Países": "Uruguay",
+    "total casos": "985,422",
+    "total muertes": "7,485",
+    "total recuperados": "976,760"
+  },
+  {
+    "Países": "Mongolia",
+    "total casos": "982,864",
+    "total muertes": "2,179",
+    "total recuperados": "979,439"
+  },
+  {
+    "Países": "Latvia",
+    "total casos": "929,051",
+    "total muertes": "5,990",
+    "total recuperados": "891,237"
+  },
+  {
+    "Países": "Azerbaijan",
+    "total casos": "821,162",
+    "total muertes": "9,910",
+    "total recuperados": "810,181"
+  },
+  {
+    "Países": "Saudi Arabia",
+    "total casos": "816,389",
+    "total muertes": "9,351",
+    "total recuperados": "803,546"
+  },
+  {
+    "Países": "Paraguay",
+    "total casos": "716,059",
+    "total muertes": "19,583",
+    "total recuperados": "696,110"
+  },
+  {
+    "Países": "Bahrain",
+    "total casos": "680,271",
+    "total muertes": "1,520",
+    "total recuperados": "675,724"
+  },
+  {
+    "Países": "Sri Lanka",
+    "total casos": "670,763",
+    "total muertes": "16,761",
+    "total recuperados": "653,779"
+  },
+  {
+    "Países": "Kuwait",
+    "total casos": "658,520",
+    "total muertes": "2,563",
+    "total recuperados": "655,316"
+  },
+  {
+    "Países": "Dominican Republic",
+    "total casos": "644,016",
+    "total muertes": "4,384",
+    "total recuperados": "638,911"
+  },
+  {
+    "Países": "Myanmar",
+    "total casos": "622,802",
+    "total muertes": "19,458",
+    "total recuperados": "597,898"
+  },
+  {
+    "Países": "Palestine",
+    "total casos": "620,548",
+    "total muertes": "5,403",
+    "total recuperados": "608,749"
+  },
+  {
+    "Países": "Estonia",
+    "total casos": "601,869",
+    "total muertes": "2,681",
+    "total recuperados": "524,990"
+  },
+  {
+    "Países": "Moldova",
+    "total casos": "589,388",
+    "total muertes": "11,844",
+    "total recuperados": "504,142"
+  },
+  {
+    "Países": "Cyprus",
+    "total casos": "585,313",
+    "total muertes": "1,180",
+    "total recuperados": "578,452"
+  },
+  {
+    "Países": "Venezuela",
+    "total casos": "544,687",
+    "total muertes": "5,814",
+    "total recuperados": "538,033"
+  },
+  {
+    "Países": "Egypt",
+    "total casos": "515,645",
+    "total muertes": "24,613",
+    "total recuperados": "442,182"
+  },
+  {
+    "Países": "Libya",
+    "total casos": "506,991",
+    "total muertes": "6,437",
+    "total recuperados": "500,507"
+  },
+  {
+    "Países": "Ethiopia",
+    "total casos": "493,563",
+    "total muertes": "7,572",
+    "total recuperados": "471,918"
+  },
+  {
+    "Países": "RÃ©union",
+    "total casos": "472,336",
+    "total muertes": 893,
+    "total recuperados": "418,572"
+  },
+  {
+    "Países": "Honduras",
+    "total casos": "456,391",
+    "total muertes": "10,993",
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Qatar",
+    "total casos": "450,448",
+    "total muertes": 682,
+    "total recuperados": "443,418"
+  },
+  {
+    "Países": "Armenia",
+    "total casos": "442,875",
+    "total muertes": "8,683",
+    "total recuperados": "430,192"
+  },
+  {
+    "Países": "Bosnia and Herzegovina",
+    "total casos": "398,668",
+    "total muertes": "16,136",
+    "total recuperados": "376,654"
+  },
+  {
+    "Países": "Oman",
+    "total casos": "397,993",
+    "total muertes": "4,260",
+    "total recuperados": "384,669"
+  },
+  {
+    "Países": "North Macedonia",
+    "total casos": "342,775",
+    "total muertes": "9,534",
+    "total recuperados": "332,806"
+  },
+  {
+    "Países": "Kenya",
+    "total casos": "338,420",
+    "total muertes": "5,678",
+    "total recuperados": "332,663"
+  },
+  {
+    "Países": "Zambia",
+    "total casos": "333,531",
+    "total muertes": "4,017",
+    "total recuperados": "329,375"
+  },
+  {
+    "Países": "Albania",
+    "total casos": "332,173",
+    "total muertes": "3,588",
+    "total recuperados": "326,729"
+  },
+  {
+    "Países": "Botswana",
+    "total casos": "326,308",
+    "total muertes": "2,789",
+    "total recuperados": "322,955"
+  },
+  {
+    "Países": "Luxembourg",
+    "total casos": "288,658",
+    "total muertes": "1,123",
+    "total recuperados": "283,668"
+  },
+  {
+    "Países": "Montenegro",
+    "total casos": "280,002",
+    "total muertes": "2,781",
+    "total recuperados": "276,154"
+  },
+  {
+    "Países": "Algeria",
+    "total casos": "270,668",
+    "total muertes": "6,879",
+    "total recuperados": "182,306"
+  },
+  {
+    "Países": "Nigeria",
+    "total casos": "265,382",
+    "total muertes": "3,155",
+    "total recuperados": "258,381"
+  },
+  {
+    "Países": "Zimbabwe",
+    "total casos": "257,409",
+    "total muertes": "5,602",
+    "total recuperados": "251,281"
+  },
+  {
+    "Países": "China",
+    "total casos": "250,449",
+    "total muertes": "5,226",
+    "total recuperados": "242,254"
+  },
+  {
+    "Países": "Uzbekistan",
+    "total casos": "244,199",
+    "total muertes": "1,637",
+    "total recuperados": "241,486"
+  },
+  {
+    "Países": "Mozambique",
+    "total casos": "230,219",
+    "total muertes": "2,221",
+    "total recuperados": "227,882"
+  },
+  {
+    "Países": "Brunei",
+    "total casos": "226,237",
+    "total muertes": 225,
+    "total recuperados": "222,140"
+  },
+  {
+    "Países": "Martinique",
+    "total casos": "221,618",
+    "total muertes": "1,044",
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Laos",
+    "total casos": "215,843",
+    "total muertes": 758,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Kyrgyzstan",
+    "total casos": "206,083",
+    "total muertes": "2,991",
+    "total recuperados": "196,406"
+  },
+  {
+    "Países": "Iceland",
+    "total casos": "205,637",
+    "total muertes": 213,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "El Salvador",
+    "total casos": "201,785",
+    "total muertes": "4,229",
+    "total recuperados": "179,410"
+  },
+  {
+    "Países": "Afghanistan",
+    "total casos": "199,067",
+    "total muertes": "7,799",
+    "total recuperados": "177,850"
+  },
+  {
+    "Países": "Guadeloupe",
+    "total casos": "192,801",
+    "total muertes": 989,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Maldives",
+    "total casos": "185,042",
+    "total muertes": 308,
+    "total recuperados": "163,687"
+  },
+  {
+    "Países": "Trinidad and Tobago",
+    "total casos": "182,597",
+    "total muertes": "4,195",
+    "total recuperados": "174,214"
+  },
+  {
+    "Países": "Uganda",
+    "total casos": "169,396",
+    "total muertes": "3,628",
+    "total recuperados": "100,431"
+  },
+  {
+    "Países": "Namibia",
+    "total casos": "169,253",
+    "total muertes": "4,065",
+    "total recuperados": "164,813"
+  },
+  {
+    "Países": "Ghana",
+    "total casos": "169,100",
+    "total muertes": "1,459",
+    "total recuperados": "167,307"
+  },
+  {
+    "Países": "Jamaica",
+    "total casos": "151,829",
+    "total muertes": "3,317",
+    "total recuperados": "99,239"
+  },
+  {
+    "Países": "Cambodia",
+    "total casos": "137,870",
+    "total muertes": "3,056",
+    "total recuperados": "134,745"
+  },
+  {
+    "Países": "Rwanda",
+    "total casos": "132,498",
+    "total muertes": "1,466",
+    "total recuperados": "130,955"
+  },
+  {
+    "Países": "Cameroon",
+    "total casos": "121,652",
+    "total muertes": "1,935",
+    "total recuperados": "118,616"
+  },
+  {
+    "Países": "Malta",
+    "total casos": "114,652",
+    "total muertes": 806,
+    "total recuperados": "113,195"
+  },
+  {
+    "Países": "Angola",
+    "total casos": "103,131",
+    "total muertes": "1,917",
+    "total recuperados": "101,155"
+  },
+  {
+    "Países": "Barbados",
+    "total casos": "102,546",
+    "total muertes": 559,
+    "total recuperados": "101,760"
+  },
+  {
+    "Países": "French Guiana",
+    "total casos": "93,974",
+    "total muertes": 410,
+    "total recuperados": "11,254"
+  },
+  {
+    "Países": "DRC",
+    "total casos": "92,852",
+    "total muertes": "1,442",
+    "total recuperados": "83,504"
+  },
+  {
+    "Países": "Channel Islands",
+    "total casos": "91,561",
+    "total muertes": 202,
+    "total recuperados": "90,639"
+  },
+  {
+    "Países": "Senegal",
+    "total casos": "88,373",
+    "total muertes": "1,968",
+    "total recuperados": "86,297"
+  },
+  {
+    "Países": "Malawi",
+    "total casos": "88,024",
+    "total muertes": "2,682",
+    "total recuperados": "84,872"
+  },
+  {
+    "Países": "Ivory Coast",
+    "total casos": "87,208",
+    "total muertes": 826,
+    "total recuperados": "86,338"
+  },
+  {
+    "Países": "Suriname",
+    "total casos": "81,106",
+    "total muertes": "1,385",
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "French Polynesia",
+    "total casos": "76,599",
+    "total muertes": 649,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "New Caledonia",
+    "total casos": "74,152",
+    "total muertes": 314,
+    "total recuperados": "73,823"
+  },
+  {
+    "Países": "Eswatini",
+    "total casos": "73,390",
+    "total muertes": "1,422",
+    "total recuperados": "71,955"
+  },
+  {
+    "Países": "Guyana",
+    "total casos": "71,336",
+    "total muertes": "1,281",
+    "total recuperados": "69,977"
+  },
+  {
+    "Países": "Belize",
+    "total casos": "68,826",
+    "total muertes": 683,
+    "total recuperados": "68,079"
+  },
+  {
+    "Países": "Fiji",
+    "total casos": "68,242",
+    "total muertes": 878,
+    "total recuperados": "66,302"
+  },
+  {
+    "Países": "Madagascar",
+    "total casos": "66,676",
+    "total muertes": "1,410",
+    "total recuperados": "65,242"
+  },
+  {
+    "Países": "Sudan",
+    "total casos": "63,285",
+    "total muertes": "4,961",
+    "total recuperados": "57,290"
+  },
+  {
+    "Países": "Mauritania",
+    "total casos": "62,812",
+    "total muertes": 995,
+    "total recuperados": "61,789"
+  },
+  {
+    "Países": "Cabo Verde",
+    "total casos": "62,371",
+    "total muertes": 410,
+    "total recuperados": "61,890"
+  },
+  {
+    "Países": "Bhutan",
+    "total casos": "61,730",
+    "total muertes": 21,
+    "total recuperados": "61,564"
+  },
+  {
+    "Países": "Syria",
+    "total casos": "57,299",
+    "total muertes": "3,163",
+    "total recuperados": "54,078"
+  },
+  {
+    "Países": "Burundi",
+    "total casos": "50,129",
+    "total muertes": 38,
+    "total recuperados": "49,559"
+  },
+  {
+    "Países": "Gabon",
+    "total casos": "48,691",
+    "total muertes": 306,
+    "total recuperados": "48,292"
+  },
+  {
+    "Países": "Seychelles",
+    "total casos": "47,141",
+    "total muertes": 169,
+    "total recuperados": "46,446"
+  },
+  {
+    "Países": "Andorra",
+    "total casos": "46,227",
+    "total muertes": 155,
+    "total recuperados": "46,011"
+  },
+  {
+    "Países": "CuraÃ§ao",
+    "total casos": "45,127",
+    "total muertes": 282,
+    "total recuperados": "44,720"
+  },
+  {
+    "Países": "Papua New Guinea",
+    "total casos": "44,997",
+    "total muertes": 668,
+    "total recuperados": "43,982"
+  },
+  {
+    "Países": "Aruba",
+    "total casos": "42,914",
+    "total muertes": 227,
+    "total recuperados": "42,438"
+  },
+  {
+    "Países": "Mauritius",
+    "total casos": "40,461",
+    "total muertes": "1,024",
+    "total recuperados": "38,786"
+  },
+  {
+    "Países": "Mayotte",
+    "total casos": "40,243",
+    "total muertes": 187,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Tanzania",
+    "total casos": "39,440",
+    "total muertes": 845,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Togo",
+    "total casos": "39,034",
+    "total muertes": 285,
+    "total recuperados": "38,528"
+  },
+  {
+    "Países": "Isle of Man",
+    "total casos": "38,008",
+    "total muertes": 116,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Guinea",
+    "total casos": "37,652",
+    "total muertes": 449,
+    "total recuperados": "36,880"
+  },
+  {
+    "Países": "Bahamas",
+    "total casos": "37,267",
+    "total muertes": 833,
+    "total recuperados": "36,070"
+  },
+  {
+    "Países": "Faeroe Islands",
+    "total casos": "34,658",
+    "total muertes": 28,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Lesotho",
+    "total casos": "34,490",
+    "total muertes": 706,
+    "total recuperados": "25,980"
+  },
+  {
+    "Países": "Haiti",
+    "total casos": "33,733",
+    "total muertes": 857,
+    "total recuperados": "31,307"
+  },
+  {
+    "Países": "Mali",
+    "total casos": "32,625",
+    "total muertes": 742,
+    "total recuperados": "31,591"
+  },
+  {
+    "Países": "Cayman Islands",
+    "total casos": "30,661",
+    "total muertes": 32,
+    "total recuperados": "8,553"
+  },
+  {
+    "Países": "Saint Lucia",
+    "total casos": "29,408",
+    "total muertes": 391,
+    "total recuperados": "28,475"
+  },
+  {
+    "Países": "Benin",
+    "total casos": "27,638",
+    "total muertes": 163,
+    "total recuperados": "27,322"
+  },
+  {
+    "Países": "Somalia",
+    "total casos": "27,214",
+    "total muertes": "1,352",
+    "total recuperados": "13,182"
+  },
+  {
+    "Países": "Congo",
+    "total casos": "24,837",
+    "total muertes": 386,
+    "total recuperados": "24,006"
+  },
+  {
+    "Países": "Timor-Leste",
+    "total casos": "23,253",
+    "total muertes": 138,
+    "total recuperados": "23,102"
+  },
+  {
+    "Países": "Burkina Faso",
+    "total casos": "21,631",
+    "total muertes": 387,
+    "total recuperados": "21,143"
+  },
+  {
+    "Países": "Solomon Islands",
+    "total casos": "21,544",
+    "total muertes": 153,
+    "total recuperados": "16,357"
+  },
+  {
+    "Países": "San Marino",
+    "total casos": "20,763",
+    "total muertes": 118,
+    "total recuperados": "20,524"
+  },
+  {
+    "Países": "Gibraltar",
+    "total casos": "20,092",
+    "total muertes": 108,
+    "total recuperados": "16,579"
+  },
+  {
+    "Países": "Liechtenstein",
+    "total casos": "19,713",
+    "total muertes": 86,
+    "total recuperados": "19,403"
+  },
+  {
+    "Países": "Grenada",
+    "total casos": "19,536",
+    "total muertes": 237,
+    "total recuperados": "19,248"
+  },
+  {
+    "Países": "Nicaragua",
+    "total casos": "18,491",
+    "total muertes": 225,
+    "total recuperados": "4,225"
+  },
+  {
+    "Países": "Bermuda",
+    "total casos": "18,154",
+    "total muertes": 148,
+    "total recuperados": "17,969"
+  },
+  {
+    "Países": "South Sudan",
+    "total casos": "17,823",
+    "total muertes": 138,
+    "total recuperados": "17,335"
+  },
+  {
+    "Países": "Tajikistan",
+    "total casos": "17,786",
+    "total muertes": 125,
+    "total recuperados": "17,264"
+  },
+  {
+    "Países": "Equatorial Guinea",
+    "total casos": "17,012",
+    "total muertes": 183,
+    "total recuperados": "16,690"
+  },
+  {
+    "Países": "Tonga",
+    "total casos": "16,182",
+    "total muertes": 12,
+    "total recuperados": "15,638"
+  },
+  {
+    "Países": "Samoa",
+    "total casos": "15,925",
+    "total muertes": 29,
+    "total recuperados": "1,605"
+  },
+  {
+    "Países": "Dominica",
+    "total casos": "15,747",
+    "total muertes": 74,
+    "total recuperados": "15,651"
+  },
+  {
+    "Países": "Djibouti",
+    "total casos": "15,690",
+    "total muertes": 189,
+    "total recuperados": "15,427"
+  },
+  {
+    "Países": "Marshall Islands",
+    "total casos": "15,275",
+    "total muertes": 17,
+    "total recuperados": "15,166"
+  },
+  {
+    "Países": "CAR",
+    "total casos": "14,913",
+    "total muertes": 113,
+    "total recuperados": "14,520"
+  },
+  {
+    "Países": "Monaco",
+    "total casos": "14,608",
+    "total muertes": 63,
+    "total recuperados": "14,478"
+  },
+  {
+    "Países": "Gambia",
+    "total casos": "12,508",
+    "total muertes": 372,
+    "total recuperados": "12,028"
+  },
+  {
+    "Países": "Saint Martin",
+    "total casos": "11,978",
+    "total muertes": 63,
+    "total recuperados": "1,399"
+  },
+  {
+    "Países": "Greenland",
+    "total casos": "11,971",
+    "total muertes": 21,
+    "total recuperados": "2,761"
+  },
+  {
+    "Países": "Yemen",
+    "total casos": "11,935",
+    "total muertes": "2,157",
+    "total recuperados": "9,124"
+  },
+  {
+    "Países": "Vanuatu",
+    "total casos": "11,930",
+    "total muertes": 14,
+    "total recuperados": "11,894"
+  },
+  {
+    "Países": "Caribbean Netherlands",
+    "total casos": "11,235",
+    "total muertes": 36,
+    "total recuperados": "10,476"
+  },
+  {
+    "Países": "Sint Maarten",
+    "total casos": "10,863",
+    "total muertes": 87,
+    "total recuperados": "10,773"
+  },
+  {
+    "Países": "Eritrea",
+    "total casos": "10,169",
+    "total muertes": 103,
+    "total recuperados": "10,063"
+  },
+  {
+    "Países": "Niger",
+    "total casos": "9,931",
+    "total muertes": 312,
+    "total recuperados": "8,890"
+  },
+  {
+    "Países": "Micronesia",
+    "total casos": "9,759",
+    "total muertes": 29,
+    "total recuperados": 157
+  },
+  {
+    "Países": "Antigua and Barbuda",
+    "total casos": "9,098",
+    "total muertes": 146,
+    "total recuperados": "8,923"
+  },
+  {
+    "Países": "Guinea-Bissau",
+    "total casos": "8,796",
+    "total muertes": 175,
+    "total recuperados": "8,301"
+  },
+  {
+    "Países": "Comoros",
+    "total casos": "8,471",
+    "total muertes": 161,
+    "total recuperados": "8,305"
+  },
+  {
+    "Países": "Liberia",
+    "total casos": "7,961",
+    "total muertes": 294,
+    "total recuperados": "7,636"
+  },
+  {
+    "Países": "Sierra Leone",
+    "total casos": "7,751",
+    "total muertes": 126,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Chad",
+    "total casos": "7,583",
+    "total muertes": 193,
+    "total recuperados": "4,874"
+  },
+  {
+    "Países": "British Virgin Islands",
+    "total casos": "7,305",
+    "total muertes": 64,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "St. Vincent Grenadines",
+    "total casos": "7,112",
+    "total muertes": 115,
+    "total recuperados": "6,641"
+  },
+  {
+    "Países": "Saint Kitts and Nevis",
+    "total casos": "6,541",
+    "total muertes": 46,
+    "total recuperados": "6,482"
+  },
+  {
+    "Países": "Cook Islands",
+    "total casos": "6,389",
+    "total muertes": 1,
+    "total recuperados": "6,384"
+  },
+  {
+    "Países": "Turks and Caicos",
+    "total casos": "6,380",
+    "total muertes": 36,
+    "total recuperados": "6,321"
+  },
+  {
+    "Países": "Sao Tome and Principe",
+    "total casos": "6,230",
+    "total muertes": 77,
+    "total recuperados": "6,132"
+  },
+  {
+    "Países": "Palau",
+    "total casos": "5,460",
+    "total muertes": 6,
+    "total recuperados": "5,444"
+  },
+  {
+    "Países": "St. Barth",
+    "total casos": "5,285",
+    "total muertes": 6,
+    "total recuperados": "N/A"
+  },
+  {
+    "Países": "Nauru",
+    "total casos": "4,611",
+    "total muertes": 1,
+    "total recuperados": "4,605"
+  },
+  {
+    "Países": "Anguilla",
+    "total casos": "3,865",
+    "total muertes": 12,
+    "total recuperados": "3,848"
+  },
+  {
+    "Países": "Kiribati",
+    "total casos": "3,430",
+    "total muertes": 13,
+    "total recuperados": "2,703"
+  },
+  {
+    "Países": "Saint Pierre Miquelon",
+    "total casos": "3,188",
+    "total muertes": 1,
+    "total recuperados": "2,449"
+  },
+  {
+    "Países": "Falkland Islands",
+    "total casos": "1,886",
+    "total muertes": "",
+    "total recuperados": "1,886"
+  },
+  {
+    "Países": "Montserrat",
+    "total casos": "1,396",
+    "total muertes": 8,
+    "total recuperados": "1,353"
+  },
+  {
+    "Países": "Saint Helena",
+    "total casos": "1,355",
+    "total muertes": "",
+    "total recuperados": 2
+  },
+  {
+    "Países": "Macao",
+    "total casos": 793,
+    "total muertes": 6,
+    "total recuperados": 787
+  },
+  {
+    "Países": "Wallis and Futuna",
+    "total casos": 761,
+    "total muertes": 7,
+    "total recuperados": 438
+  },
+  {
+    "Países": "Diamond Princess",
+    "total casos": 712,
+    "total muertes": 13,
+    "total recuperados": 699
+  },
+  {
+    "Países": "Niue",
+    "total casos": 80,
+    "total muertes": "",
+    "total recuperados": 80
+  },
+  {
+    "Países": "Vatican City",
+    "total casos": 29,
+    "total muertes": "",
+    "total recuperados": 29
+  },
+  {
+    "Países": "Tuvalu",
+    "total casos": 20,
+    "total muertes": "",
+    "total recuperados": ""
+  },
+  {
+    "Países": "Western Sahara",
+    "total casos": 10,
+    "total muertes": 1,
+    "total recuperados": 9
+  },
+  {
+    "Países": "MS Zaandam",
+    "total casos": 9,
+    "total muertes": 2,
+    "total recuperados": 7
+  }
+]
